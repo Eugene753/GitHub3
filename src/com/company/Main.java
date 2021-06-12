@@ -6,10 +6,16 @@ public class Main {
 	Car car=new Car();
 
 
+
 	car.color="blue";
 	car.number="999";
 	car.door="6";
 	car.model="Audi";
+
+
+	dfgtdfgh
+            dfghdfgh
+            fghfgh
 
     }
 }
