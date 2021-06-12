@@ -10,10 +10,6 @@ public class Main {
 	car.number="999";
 	car.door="6";
 	car.model="Audi";
-	dsfgdfgdfggdf
-
-
-	dfghfghjfgjhfghjghjgh
 
     }
 }
