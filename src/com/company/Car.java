@@ -6,5 +6,5 @@ public class Car {
     String number;
     String model;
     String door;
-    sdfsdfsdfsdfsdf
+
 }
